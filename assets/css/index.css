@@ -1,8 +1,33 @@
-* {
+ 
+@font-face {font-family: "roobert-regular"; src: url("//db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.eot"); 
+	src: url("//db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/6228016f2b172c06410f3a2356d33f6c.woff2") format("woff2")
+	 }
+ 
+@font-face {font-family: "roobert-bold"; 
+	src: url("../css/fonts/Roobert-Bold.woff2") format("woff2")
+	 }
+
+@font-face {font-family: "roobert-medium"; 
+	src: url("../css/fonts/Roobert-Medium.woff2") format("woff2")
+	}
+@font-face {font-family: "Roobert-SemiBold"; 
+	src: url("../css/fonts/Roobert-SemiBold.woff2") format("woff2")
+	}
+@font-face {font-family: "Roobert-light"; 
+	src: url("../css/fonts/Roobert-light.woff2") format("woff2")
+	}
+
+	 
+	 
+  * {
   margin: 0;
   padding: 0;
 }
 
+
+h1{
+  padding-bottom: 1rem;
+}
 :root {
   --padding: 1.5rem;
   --color-black: #000;
@@ -22,16 +47,22 @@
   --color-code-aqua:        #8abeb7;
   --color-code-blue:        #7e9abf;
   --color-code-purple:      #b294bb;
-  --font-family-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  
+  --font-family-bold: roobert-bold;
+  --font-family-regular: roobert-regular;
+  --font-family-light: roobert-light;
+  --font-family-semibold: roobert-semibold;
+  --font-family-medium: roobert-medium;
   --font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
 html {
-  font-family: var(--font-family-sans);
+  font-family: var(--font-family-regular);
   color: var(--color-text);
   background: var(--color-background);
 }
 img {
+  
   width: 100%;
 }
 body {
@@ -59,6 +90,15 @@ strong, b {
 small {
   font-size: inherit;
   color: var(--color-text-grey);
+}
+.testo-introduttivo {
+  /* font-size: inherit; */
+  font-family: var(--font-family-regular);
+  font-weight: 400;
+font-size: 26px;
+line-height: 150%;
+  color: var(--color-text-grey);
+  font-size: 18px;
 }
 
 .header {
@@ -203,6 +243,7 @@ small {
   display: grid;
   grid-gap: var(--gutter);
   grid-template-columns: 1fr;
+
 }
 .grid > .column {
   margin-bottom: var(--gutter);
@@ -218,7 +259,7 @@ small {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: inherit;
+  /* font-size: inherit; */
   font-weight: inherit;
   line-height: inherit;
 }
@@ -250,15 +291,20 @@ h1, h2, h3, h4, h5, h6 {
 .text ol > li {
   list-style: numeric;
 }
+.h1{
+  line-height: 2rem;
+}
 .text h1,
 .h1,
 .intro {
+  font-family: var(--font-family-bold);
   font-size: 2rem;
   margin-bottom: 3rem;
-  line-height: 1.25em;
+  line-height: 1.55em;
 }
 .text h2,
 .h2 {
+  font-family: var(--font-family-regular);
   font-size: 1.25rem;
   font-weight: 600;
   margin-bottom: 1.25rem;
@@ -363,7 +409,7 @@ hr {
   position: absolute;
   top: 0;
   right: 0;
-  bottom: 0;
+  bottom: 20px;
   left: 0;
   width: 100%;
   height: 100%;
@@ -405,6 +451,16 @@ hr {
 }
 .footer a:hover {
   color: var(--color-text);
+  
+    text-decoration: underline;
+  
+}
+
+a:hover h2  {
+  
+  
+    text-decoration: underline;
+  
 }
 
 

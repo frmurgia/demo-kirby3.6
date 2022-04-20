@@ -16,14 +16,15 @@
 
 .blog-article {
   max-width: 35rem;
-  margin: 0 auto;
+  min-width: 35rem;
+  /* margin: 0 auto; */
 }
 .blog-article-header {
-  padding-top: 3rem;
+  /* padding-top: 3rem; */
   margin-bottom: 3rem;
 }
 .blog-article-footer {
-  padding: 6rem 0;
+  padding: 2rem 0;
 }
 .blog-article-date {
   color: var(--color-text-grey);

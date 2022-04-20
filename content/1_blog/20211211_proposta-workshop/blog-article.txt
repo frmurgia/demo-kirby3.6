@@ -1,0 +1,27 @@
+Title: Proposta workshop
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>Nel dicembre 2021 la nostra sotto-unit\u00e0 ha proposto di ospitare un workshop<strong>\u00a0<\/strong>di startup del progetto in presenza ad Alghero.<\/p><p>La proposta prevedeva un workshop\u00a0intensivo per permettere ai partner di entrare in sintonia e scambiare inforrmazioni ed expertise.\u00a0<\/p><p>Originariamente programmato per l\u201911 dicembre il progetto\u00a0 \u00e8 stato cancellato a causa della recrudescenza della pandemia.<\/p><p><\/p>"},"id":"6e9eff1c-9db0-43ec-83d9-793fc1f4ad71","isHidden":false,"type":"text"}]
+
+----
+
+Date: 2021-12-11
+
+----
+
+Author:
+
+- 35lvxxlS
+
+----
+
+Tags: 

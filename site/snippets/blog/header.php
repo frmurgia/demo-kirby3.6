@@ -1,6 +1,6 @@
 <?php snippet('header', ['example' => 'blog']) ?>
 
-<header class="header">
+<!-- <header class="header">
   <?php snippet('logo', ['section' => 'blog']) ?>
   <nav class="menu">
     <span class="social">
@@ -9,6 +9,6 @@
       <a href="https://instagram.com/getkirby"><?= svg('assets/icons/instagram.svg') ?></a>
     </span>
   </nav>
-</header>
+</header> -->
 
 <main class="main">

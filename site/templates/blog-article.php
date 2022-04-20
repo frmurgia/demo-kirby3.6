@@ -1,10 +1,11 @@
 <?php snippet('blog/header') ?>
 
-<?php if ($cover = $page->cover()): ?>
-<a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
-  <?= $cover->crop(1200, 600) ?>
-</a>
-<?php endif ?>
+<div class="arrow">
+  <a href="<?= url('home') ?>">
+    <img src="<?= asset('assets/css/img/Arrow2.svg')->url();  ?>" alt="Link to the full article page" width="100" height="auto">
+    
+  </a>
+</div>
 
 <article class="blog-article">
   <header class="blog-article-header h1">
@@ -13,6 +14,13 @@
     <p class="blog-article-subheading"><small><?= $page->subheading()->escape() ?></small></p>
     <?php endif ?>
   </header>
+  <!-- immagine -->
+  <?php if ($cover = $page->cover()): ?>
+<a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
+  <?= $cover->crop(1200, 600) ?>
+</a>
+<?php endif ?>
+
   <div class="blog-article text">
     <?= $page->text()->toBlocks() ?>
   </div>
@@ -27,10 +35,10 @@
     </ul>
     <?php endif ?>
 
-    <time class="blog-article-date" datetime="<?= esc($page->date('c'), 'attr') ?>">Published on <?= esc($page->date()) ?></time>
+    <time class="blog-article-date" datetime="<?= esc($page->date('c'), 'attr') ?>">Pubblicato  <?= esc($page->date()) ?></time>
   </footer>
 
-  <?php snippet('blog/prevnext') ?>
+  <!-- <?php snippet('blog/prevnext') ?> -->
 </article>
 
-<?php snippet('blog/footer') ?>
+<!-- <?php snippet('blog/footer') ?> -->

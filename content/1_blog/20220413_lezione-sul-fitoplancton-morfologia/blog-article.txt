@@ -1,0 +1,27 @@
+Title: Lezione sul fitoplancton - morfologia
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>Secondo appuntamento con i contenuti del progetto sul fitoplancton, con una lezione integrativa a cura di Silvia Pulina Teodora Satta.<\/p><p>Partecipano, oltre al gruppo UNISS , con Stefania Bagella (mUNISS), Sonia Merlo per Red Raion e Anna Gianvincenzo per ETT.<\/p><p>Al termini della presentazione \u00e8 intervenuto Nicol\u00f2 Ceccarelli che ha presentato lo stato di avanzamento delle riflessioni del team animazionedesign sulle possibili traiettorie del progetto onsite al mUNISS sul fitoplancton.<\/p><p>Il video della riunione \u00e8 stato registrato e sar\u00e0 reso disponibile sulle piattaforme del progetto CULTURGAME.<\/p><p><\/p>"},"id":"02496130-70f7-4e59-91e2-97bee4619397","isHidden":false,"type":"text"}]
+
+----
+
+Date: 2022-04-13
+
+----
+
+Author:
+
+- tDwnHSid
+
+----
+
+Tags: 

@@ -1,0 +1,27 @@
+Title: Prima riunione plenaria
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>E\u2019 la prima riunione plenaria online di startup del progetto.<br>In questa occasione ci siamo incontrati con tutti i partner per iniziare a conoscerci.<br>Partecipa: Nicol\u00f2 Ceccarelli<\/p><p><\/p>"},"id":"121fb701-ca01-485a-9cbd-a72283f2e6c8","isHidden":false,"type":"text"}]
+
+----
+
+Date: 2021-11-24
+
+----
+
+Author:
+
+- 35lvxxlS
+
+----
+
+Tags: 

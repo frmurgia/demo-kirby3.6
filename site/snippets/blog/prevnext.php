@@ -1,5 +1,5 @@
 <nav class="blog-prevnext">
-  <h2 class="h2">Keep on reading</h2>
+  <h2 class="h2">Continua a leggere</h2>
 
   <div class="autogrid" style="--gutter: 1.5rem">
     <?php if ($prev = $page->prevListed()): ?>

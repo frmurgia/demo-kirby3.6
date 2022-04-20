@@ -1,0 +1,27 @@
+Title: Incontro UNISS con ETT
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>Nicol\u00f2 Ceccarelli visita a Genova la sede di ETT per un incontro di coordinamento.<br>Nell\u2019incontro vengono presentati vari progetti a cura di ETT, si discute dell\u2019esperienza SENSE e si inizia a programmare la collaborazione tra i due partner.<\/p><p><\/p>"},"id":"559e078c-1322-4b62-bd7d-680a6602b042","isHidden":false,"type":"text"}]
+
+----
+
+Date: 2022-02-22
+
+----
+
+Author:
+
+- 35lvxxlS
+
+----
+
+Tags: 

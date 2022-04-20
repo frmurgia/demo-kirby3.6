@@ -1,27 +1,40 @@
-title: Home
+title: Blog
+template: pages
+icon: 📚
 
-sections:
-  content:
-    type: fields
-    fields:
-      heading:
-        type: text
-      panelHeading:
-        label: Panel heading
-        type: text
-        width: 1/2
-      aboutHeading:
-        label: About heading
-        type: text
-        width: 1/2
-      panelText:
-        label: Panel text
-        type: textarea
-        size: large
-        width: 1/2
-      aboutText:
-        label: About text
-        type: textarea
-        size: large
-        width: 1/2
-  examples: sections/home/examples
+columns:
+  left:
+    width: 1/2
+    sections:
+      drafts:
+        type: pages
+        headline: Bozze
+        status: draft
+        info: "{{ page.date.toDate('d.m.Y') }}"
+        template: article
+        empty: No articles yet
+        sortBy: date desc
+
+      unlisted:
+
+        headline: In Revisioine
+        status: unlisted
+        type: pages
+        info: "{{ page.date.toDate('d.m.Y') }}"
+        template: article
+        empty: No articles yet
+        sortBy: date desc
+
+
+
+  right:
+    width: 1/2
+    sections:
+      listed:
+        headline: Pubblicati
+        status: listed
+        type: pages
+        info: "{{ page.date.toDate('d.m.Y') }}"
+        template: article
+        empty: No articles yet
+        sortBy: date desc

@@ -1,10 +1,10 @@
 <?php snippet('header', ['example' => 'home']) ?>
 
-<header class="header">
+<!-- <header class="header">
   <?php snippet('logo', ['section' => 'home']) ?>
   <nav class="menu">
     <?php snippet('social') ?>
   </nav>
-</header>
+</header> -->
 
 <main class="main">

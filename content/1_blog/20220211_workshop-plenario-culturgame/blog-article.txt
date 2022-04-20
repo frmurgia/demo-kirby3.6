@@ -1,0 +1,25 @@
+Title: Workshop plenario CULTURGAME
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>E\u2019 la\u00a0 prima riunione plenaria online di startup del progetto.<\/p><p>In questa occasione ci siamo incontrati con tutti i partner per iniziare a conoscerci.<\/p><p>Partecipa: Nicol\u00f2 Ceccarelli<\/p>"},"id":"fff3f248-9a0f-44ec-af0c-a59126be24a4","isHidden":false,"type":"text"}]
+
+----
+
+Date: 2022-02-11
+
+----
+
+Author: 
+
+----
+
+Tags: workshop

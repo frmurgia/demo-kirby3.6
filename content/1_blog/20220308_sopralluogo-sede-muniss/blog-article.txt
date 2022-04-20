@@ -1,0 +1,27 @@
+Title: Sopralluogo sede mUNISS
+
+----
+
+Subheading: 
+
+----
+
+Cover: 
+
+----
+
+Text: [{"content":{"text":"<p>Le due unit\u00e0 di ricerca UNISS si incontrano per una riunione di coordinamento e un sopralluogo alla sede del mUNISS, presso il campus Piandanna dell\u2019universit\u00e0 di Sassari.<br>Nella riunione erano rappresentati tutte le componenti dell\u2019unit\u00e0 UNISS: Antonella Lugli\u00e8, Silvia Pulina e Cecilia Satta (gruppo BIO-ecologia); Nicol\u00f2 Ceccarelli, Daniele Murgia (Nada Beretic) per il laboratorio Animazionedeaign<br>Ospite dell\u2019incontro la Dott.ssa Stefania Bagella, che del mUNISS \u00e8 la responsabile operativa.<\/p><p>Nella riunione vengono state delineate possibili direzioni di sviluppo del progetto, sui due versanti della partecipazione UNISS. Il sopralluogo ai locali del mUNISS consente di iniziare. studiare possibili soluzioni per l\u2019implementazione del dimostratore in situ.<br>Partecipano: Nicol\u00f2 Ceccarelli, Nada Beretic, Daniele Murgia; Antonella Lugli\u00e8, Cecilia Satta, Silvia Pulina; Stafania Bagella mUNISS.<\/p><p><\/p>"},"id":"bbbf17bb-2d58-4312-90ae-34387222ec67","isHidden":false,"type":"text"}]
+
+----
+
+Date: 2022-03-08
+
+----
+
+Author:
+
+- 35lvxxlS
+
+----
+
+Tags: 

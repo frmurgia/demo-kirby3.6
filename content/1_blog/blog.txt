@@ -2,15 +2,19 @@ Title: Blog
 
 ----
 
-Heading: Around the world
+Titolo: CulturGame
 
 ----
 
-Subheading: in 90 ways
+Sottotitolo: Uniss
 
 ----
 
-Limit: 10
+Testo: In questo giornale di bordo vogliamo raccogliere e tener conto del contributo delle due sotto-unità del Dipartimento di Architettura, Design e Urbanistica dell’Università di Sassari allo sviluppo del progetto ‘CULTURGAME’, parte dei progetti di ricerca industriale e sviluppo sperimentale nelle 12 aree di specializzazione individuate dal PNR 2015-2020:  Area di specializzazione “Cultural Heritage” .
+
+----
+
+Limit: 100
 
 ----
 
@@ -18,12 +22,20 @@ Dateformat: d M, Y
 
 ----
 
-Twitter: getkirby
+Twitter: 
 
 ----
 
-Instagram: getkirby
+Instagram: 
 
 ----
 
-Description: Just like Medium, but better
+Heading: CulturGame blog
+
+----
+
+Subheading: UNISS
+
+----
+
+Description: In questa sezione è possible accedere agli articoli
